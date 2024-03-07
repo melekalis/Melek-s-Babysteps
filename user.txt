@@ -1,0 +1,3 @@
+admin;password
+melek;1234
+angela;a1b2c3
